@@ -1,0 +1,35 @@
+{
+  "name": "hapi-session-inject",
+  "version": "1.0.0",
+  "description": "Hapi server.inject with session support",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "lab -m 10000 test",
+    "coverage": "lab -c -t 80 -r html -o coverage.html --coverage-path ./lib -v -m 10000 test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinkaga/hapi-session-inject.git"
+  },
+  "keywords": [
+    "hapi",
+    "session",
+    "test",
+    "inject"
+  ],
+  "author": "Vinay Agarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinkaga/hapi-session-inject/issues"
+  },
+  "homepage": "https://github.com/vinkaga/hapi-session-inject#readme",
+  "devDependencies": {
+    "code": "^3.0.2",
+    "hapi": "^15.0.3",
+    "lab": "^11.0.1",
+    "yar": "^8.0.0"
+  }
+}
