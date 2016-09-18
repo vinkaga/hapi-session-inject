@@ -2,6 +2,9 @@
 
 A simple plugin for testing sessions using Hapi.
 
+![Build Status](https://travis-ci.org/vinkaga/hapi-session-inject.svg?branch=master)
+
+
 ## Install
 
 ```
