@@ -19,7 +19,7 @@ The ***hapi-session-inject*** provides the same interface as [`server.inject`](h
 
 ```JavaScript
 	const server = new Hapi.Server();
-	const session = new Session(server);
+	const session = new Session(server, 'sessioncookiename'); // sessioncookiename defaults to 'session'
 	
 	// Callback interface
 	session.inject('/', (res) => {
