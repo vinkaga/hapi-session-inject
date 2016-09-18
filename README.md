@@ -2,7 +2,7 @@
 
 A simple plugin for testing sessions using Hapi.
 
-![Build Status](https://travis-ci.org/vinkaga/hapi-session-inject.svg?branch=master)
+![Build Status](https://travis-ci.org/vinkaga/hapi-session-inject.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/github/vinkaga/hapi-session-inject/badge.svg)](https://coveralls.io/github/vinkaga/hapi-session-inject)
 
 
 ## Install

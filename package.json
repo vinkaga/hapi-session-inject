@@ -28,6 +28,7 @@
   "homepage": "https://github.com/vinkaga/hapi-session-inject#readme",
   "devDependencies": {
     "code": "^3.0.2",
+    "coveralls": "^2.11.13",
     "hapi": "^15.0.3",
     "lab": "^11.0.1",
     "yar": "^8.0.0"
