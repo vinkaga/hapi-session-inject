@@ -30,4 +30,4 @@ The ***hapi-session-inject*** provides the same interface as [`server.inject`](h
 
 ```
 
-Additional usage details can be found in [test.js](test/inddex.js)
+Additional usage details can be found in [test.js](blob/master/test/index.js)
